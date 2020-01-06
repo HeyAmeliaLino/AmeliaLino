@@ -416,3 +416,84 @@
     margin-bottom: 0px;
 }
 
+
+
+/* ----------SHOCKER--------------------- */
+#shocked_primera {
+    /* Asignamos una altura mínima */
+    height: 100vh;
+    
+    width: 100vh;
+    
+    background-image: url('media/shocked/shocked.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #shocked_segunda {
+    /* Asignamos una altura mínima */
+    min-height: 100vh;
+
+    background-image: url('media/shocked/shocked1.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #shocked_tercera{
+    /* Asignamos una altura mínima */
+    min-height: 50vh;
+     
+    
+    background-image: url('media/shocked/shocked3.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #shocked_cuarta {
+    /* Asignamos una altura mínima */
+    min-height: 50vh;
+     
+    
+    background-image: url('media/shocked/shocked4.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #shocked_quinta {
+    /* Asignamos una altura mínima */
+    min-height: 50vh;
+     
+    
+    background-image: url('media/shocked/shocked5.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #shocked_sexta{
+    /* Asignamos una altura mínima */
+    min-height: 50vh;
+     
+    
+    background-image: url('media/shocked/shocked6.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+ 
+#copyright_sexting{
+    padding-top: 25px;
+    padding-bottom: 10px;
+    background-color: black;
+}
+#copyright_sexting p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 8px;
+    font-weight: medium;
+    font-style: italic;
+    letter-spacing: 2px;
+
+     
+
+    color:white;
+    margin-bottom: 0px;
+}
+
