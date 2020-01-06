@@ -120,6 +120,9 @@
 
 #editorial_design{
     background-image: url("media/photo/editorial_background.jpg");
+    /* background-position: center;
+    background-repeat: no-repeat; */
+}
      
      
 
@@ -261,6 +264,9 @@
 
 
 /* -----------ACNE STUDIOS---- */
+#acne_studios_logo{
+    padding-top: 50px;
+}
 #acne_studios_row_uno{
     padding-top: 100px;
 }
