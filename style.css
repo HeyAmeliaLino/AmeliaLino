@@ -258,6 +258,52 @@
     color:black;
     margin-bottom: 0px;
 }
+
+
+/* -----------ACNE STUDIOS---- */
+#acne_studios_row_uno{
+    padding-top: 100px;
+}
+
+#acne_studios_row_espacios{
+    padding-top: 50px;
+}
+
+#acne_studios_esapcio_extra{
+    padding-top: 50px;
+}
+
+ 
+
+ 
+
+#acne_studio_foto_final {
+    /* Asignamos una altura mínima */
+    min-height: 400px;
+    min-width: 721;
+    
+    background-image: url('media/acne_studios/acne-studio5.png');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #copyright_acne_studios{
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+#copyright_acne_studios p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 8px;
+    font-weight: medium;
+    font-style: italic;
+    letter-spacing: 2px;
+
+     
+
+    color:black;
+    margin-bottom: 0px;
+}
+ 
  
 
 
