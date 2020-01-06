@@ -497,3 +497,238 @@
     margin-bottom: 0px;
 }
 
+
+
+/* ----------------------- freyay -------------------------*/
+
+#freyay_primera {
+    /* Asignamos una altura mínima */
+    min-height: 100vh;
+    
+     
+    
+    background-image: url('media/freyay/freeyay.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #freyay_segunda {
+    /* Asignamos una altura mínima */
+    min-height: 100vh;
+
+    background-image: url('media/freyay/freeyay1.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #freyay_tercera{
+    /* Asignamos una altura mínima */
+    min-height: 50vh;
+     
+    
+    background-image: url('media/freyay/freeyay2.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #freyay_cuarta {
+    /* Asignamos una altura mínima */
+    min-height: 47vh;
+     
+    
+    background-image: url('media/freyay/freeyay3.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #freyay_quinta {
+    /* Asignamos una altura mínima */
+    min-height: 100vh;
+     
+    
+    background-image: url('media/freyay/freeyay4.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+ 
+ 
+#copyright_sexting{
+    padding-top: 25px;
+    padding-bottom: 10px;
+    background-color: black;
+}
+#copyright_sexting p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 8px;
+    font-weight: medium;
+    font-style: italic;
+    letter-spacing: 2px;
+
+     
+
+    color:white;
+    margin-bottom: 0px;
+}
+
+
+/* --------- rocking fries--------- */
+
+#rocking_fries_primera {
+    /* Asignamos una altura mínima */
+    min-height: 900px;
+    
+     
+    
+    background-image: url('media/rockin_fries/rockinfries.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #rocking_fries_segunda {
+    /* Asignamos una altura mínima */
+    min-height: 50vh;
+     
+
+    background-image: url('media/rockin_fries/rockinfries1.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #rocking_fries_tercera{
+    /* Asignamos una altura mínima */
+    min-height: 700px;
+     
+    
+    background-image: url('media/rockin_fries/rockinfries2.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #rocking_fries_cuarta {
+    /* Asignamos una altura mínima */
+    min-height: 300px;
+     
+    
+    background-image: url('media/rockin_fries/rockinfries3.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #rocking_fries_quinta {
+    /* Asignamos una altura mínima */
+    min-height: 700px;
+     
+    
+    background-image: url('media/rockin_fries/rockinfries4.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #rocking_fries_sexta {
+    /* Asignamos una altura mínima */
+    min-height: 100vh;
+     
+    
+    background-image: url('media/rockin_fries/rockinfries5.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #copyright_rocking_fries{
+    padding-bottom: 20px;
+}
+#copyright_rocking_fries p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 8px;
+    font-weight: medium;
+    font-style: italic;
+    letter-spacing: 2px;
+
+     
+
+    color:black;
+    margin-bottom: 0px;
+}
+
+
+/*----------------------------- vamos a volar---------------------------------- */
+
+
+#vamosavolar_primera {
+    /* Asignamos una altura mínima */
+    min-height: 60vh;
+    
+     
+    
+    background-image: url('media/vamos_a_volar/vamos-a-volar.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #vamosavolar_segunda {
+    /* Asignamos una altura mínima */
+    min-height: 850px;
+     
+
+    background-image: url('media/vamos_a_volar/vamos-a-volar1.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #vamosavolar_tercera{
+    /* Asignamos una altura mínima */
+    min-height: 23vh;
+     
+    
+    background-image: url('media/vamos_a_volar/vamos-a-volar2.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #vamosavolar_cuarta {
+    /* Asignamos una altura mínima */
+    min-height: 400px;
+     
+    
+    background-image: url('media/vamos_a_volar/vamos-a-volar3.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #vamosavolar_quinta {
+    /* Asignamos una altura mínima */
+    min-height: 31vh;
+     
+    
+    background-image: url('media/vamos_a_volar/vamos-a-volar4.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #vamosavolar_sexta {
+    /* Asignamos una altura mínima */
+    min-height: 50vh;
+     
+    
+    background-image: url('media/vamos_a_volar/vamos-a-volar5.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #vamosavolar_septima {
+    /* Asignamos una altura mínima */
+    
+    min-height: 500px;
+     
+    
+    background-image: url('media/vamos_a_volar/vamos-a-volar6.jpg');
+    background-size: cover;
+    background-position: center;
+    
+  }
+
+
+
+
+
