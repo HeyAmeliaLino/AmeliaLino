@@ -5,7 +5,7 @@
 #menu{
      
     font-family: 'Raleway', sans-serif;
-    font-size: 18px;
+    font-size: 17px;
     font-weight: bold;
     font-style: italic;
     letter-spacing: 4px;
@@ -38,7 +38,7 @@
 }
 
 #footer_index{
-    padding-top: 75px;
+    padding-top: 20px;
 }
 #footer_index p{
     font-family: 'Raleway', sans-serif;
@@ -54,7 +54,7 @@
 }
 
 #copyright_index{
-    padding-top: 75px;
+    padding-top: 50px;
 }
 #copyright_index p{
     font-family: 'Raleway', sans-serif;
@@ -79,12 +79,14 @@
 
 #uno {
     /* background-color: red; */
-    padding-top: 250px;
+    padding-top: 200px;
 }
 
-#dos {
-    background-color: yellow;
+#projects_video{
+    padding-top: 125px;
 }
+
+ 
 
 .row{
     color:white;
@@ -99,7 +101,7 @@
  
 
 #copyright_project{
-    padding-top: 125px;
+    padding-top: 30px;
 }
 #copyright_project p{
     font-family: 'Raleway', sans-serif;
@@ -124,7 +126,23 @@
 }
 
 #editorial_design_columna_dos{
-    padding-top: 50px;
+    padding-top: 100px;
+}
+
+#copyright_editorial_design{
+    padding-top: 30px;
+}
+#copyright_editorial_design p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 8px;
+    font-weight: medium;
+    font-style: italic;
+    letter-spacing: 2px;
+
+     
+
+    color:white;
+    margin-bottom: 0px;
 }
 
 
