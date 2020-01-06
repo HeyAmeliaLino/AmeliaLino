@@ -309,7 +309,110 @@
     color:black;
     margin-bottom: 0px;
 }
- 
+
+
+/*-------- SEXTING--------- */
+
+#menu_sexting{
+     
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 4px;
+     
+    background-color:"";
+    padding-top: 100px;
+    padding-right: 50px;
+}
+#menu_sexting li a{
+    color: white;
+    padding-right: 50px;
+
+}
  
 
+#menu_sexting li a:hover{
+    color: #c2484a;
+}
+
+#menu_sexting_logo{
+    padding-top: 50px;
+    padding-left: 120px;
+}
+
+
+
+
+ 
+
+#sexting_primera {
+    /* Asignamos una altura mínima */
+    min-height: 500px;
+     
+    
+    background-image: url('media/sexting/sexting1.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #sexting_segunda {
+    /* Asignamos una altura mínima */
+    min-height: 1263px;
+
+     
+     
+    
+    background-image: url('media/sexting/sexting2.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #sexting_tercera{
+    /* Asignamos una altura mínima */
+    min-height: 418px;
+     
+    
+    background-image: url('media/sexting/sexting3.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #sexting_cuarta {
+    /* Asignamos una altura mínima */
+    min-height: 100vh;
+    min-width: 100vh;
+    
+    background-image: url('media/sexting/sexting4.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #sexting_quinta {
+    /* Asignamos una altura mínima */
+    min-height: 100vh;
+    min-width: 100vh;
+    
+    background-image: url('media/sexting/sexting5.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+ 
+#copyright_sexting{
+    padding-top: 25px;
+    padding-bottom: 10px;
+    background-color: black;
+}
+#copyright_sexting p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 8px;
+    font-weight: medium;
+    font-style: italic;
+    letter-spacing: 2px;
+
+     
+
+    color:white;
+    margin-bottom: 0px;
+}
 
