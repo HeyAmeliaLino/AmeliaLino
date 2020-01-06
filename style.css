@@ -1,0 +1,208 @@
+/* INDEX */
+/* a:active{color: red} */
+
+@import url('https://fonts.googleapis.com/css?family=Raleway:500,600,800,800i,900,900i&display=swap');
+#menu{
+     
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 4px;
+     
+    background-color:"";
+    padding-top: 100px;
+    padding-right: 50px;
+}
+#menu li a{
+    color: white;
+    padding-right: 50px;
+
+}
+ 
+
+#menu li a:hover{
+    color: #c2484a;
+}
+
+#video_index{
+    padding-top: 50px;
+
+}
+
+#index{
+    background-image: url("media/photo/index.jpg");
+}
+
+#footer_index{
+    padding-top: 100px;
+}
+#footer_index p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 2px;
+
+    color:white;
+    margin-bottom: 0px;
+    margin:0px;
+    
+}
+
+#copyright_index{
+    padding-top: 130px;
+}
+#copyright_index p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 8px;
+    font-weight: medium;
+    font-style: italic;
+    letter-spacing: 2px;
+
+     
+
+    color:white;
+    margin-bottom: 0px;
+}
+
+/********************************************* PROJECTS *****************************************/
+
+#projects{
+    background-image: url("media/photo/project.jpg");
+}
+
+#uno {
+    /* background-color: red; */
+    padding-top: 250px;
+}
+
+#dos {
+    background-color: yellow;
+}
+
+.row{
+    color:white;
+}
+
+.row img{
+    /* padding-top: 200px; */
+}
+
+ 
+
+ 
+
+#copyright_project{
+    padding-top: 125px;
+}
+#copyright_project p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 8px;
+    font-weight: medium;
+    font-style: italic;
+    letter-spacing: 2px;
+
+     
+
+    color:white;
+    margin-bottom: 0px;
+}
+
+/* ----------------------editorial_desing----------------- */
+
+#editorial_design{
+    background-image: url("media/photo/editorial_background.jpg");
+
+}
+
+#editorial_design_columna_dos{
+    padding-top: 50px;
+}
+
+
+
+
+
+/* ----------------------experience_design----------------- */
+
+#experience_design{
+    background-image: url("media/photo/experience_background.jpg");
+
+}
+
+#experience_design_columna_dos{
+    padding-top: 50px;
+}
+
+#experience_design_logo{
+    padding-top: 50px;
+    padding-left: 120px;
+}
+ 
+
+
+
+/*----------------- cementerio-------------------- */
+
+#row_uno{
+    padding-top: 100px;
+}
+
+#menu_editorial_design_cementerio_de_los_ilustres{
+     
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 4px;
+     
+    background-color:"";
+    padding-top: 100px;
+    padding-right: 50px;
+}
+#menu_editorial_design_cementerio_de_los_ilustres li a{
+    color: black;
+    padding-right: 50px;
+
+}
+ 
+
+#menu_editorial_design_cementerio_de_los_ilustres li a:hover{
+    color: #c2484a;
+}
+
+#menu_editorial_design_cementerio_de_los_ilustres_logo{
+    padding-top: 50px;
+    padding-left: 120px;
+}
+
+#btn_symbolic_imaginary{
+    padding-left: 100px;
+    padding-top: 30px;
+}
+
+#row_tres{
+    
+    /* largo */
+    
+    /* width: 1920%;
+    height: 738px; */
+    background-image: url("media/cementerio_ilustres/pag7.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: none;
+}
+
+#row_tres img{
+    padding-top: 400px;
+    padding-bottom: 290px;
+}
+
+.sinpadding [class*="div"] {
+    padding: 0;
+}
+
+ 
+
+
