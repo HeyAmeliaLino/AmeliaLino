@@ -728,7 +728,92 @@
     
   }
 
+/* -------------------------------------------- Chiua--------------------- */
 
+#chiua_primera {
+    /* Asignamos una altura mínima */
+    min-height: 800px;
+    
+     
+    
+    background-image: url('media/chiua/chiua_02.jpg');
+    background-size: cover;
+    background-position: center;
+  }
 
+  #chiua_segunda {
+    /* Asignamos una altura mínima */
+    min-height: 621px;
+     
+
+    background-image: url('media/chiua/chiua_03.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #chiua_tercera{
+    /* Asignamos una altura mínima */
+    min-height: 560px;
+     
+    
+    background-image: url('media/chiua/chiua_04.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  #chiua_cuarta {
+    /* Asignamos una altura mínima */
+    min-height: 85vh;
+      
+    
+    background-image: url('media/chiua/chiua_05.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  #chiua_quinta {
+    /* Asignamos una altura mínima */
+    min-height: 300px;
+     
+    
+    background-image: url('media/chiua/chiua_06.jpg');
+    background-size: cover;
+    background-position: top;
+  }
+
+  #chiua_sexta {
+    /* Asignamos una altura mínima */
+    min-height: 10vh;
+     
+    
+    background-image: url('media/chiua/chiua_07.jpg');
+    background-size: cover;
+    background-position: top;
+  }
+
+  #chiua_septima {
+    /* Asignamos una altura mínima */
+    
+    min-height: 40vh;
+     
+    
+    background-image: url('media/chiua/chiua_08.jpg');
+    background-size: cover;
+    background-position: center;
+    
+  }
+
+  #chiua_octava {
+    /* Asignamos una altura mínima */
+    
+    min-height: 500px;
+     
+    
+    background-image: url('media/chiua/chiua_09.jpg');
+    background-size: cover;
+    background-position: left;
+    
+  }
 
 
