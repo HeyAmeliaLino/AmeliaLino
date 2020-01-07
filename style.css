@@ -816,8 +816,26 @@
     
   }
 
+  #chiua_boton_modal{
+    padding-left: 545px;
+    padding-top: 15px;
+    
+    
+}
 
-  /* ABOUT ME */
+.chiua_boton_modal_transparente{
+  background:transparent;
+    border:none;
+    outline:none;
+    display:block;
+     
+    cursor:pointer;
+
+}
+  
+
+
+  /* -----------------------------ABOUT ME--------------------------- */
   #body_about_me{
     background-image: url('media/body_about_me/amelialino_aboutme.jpg');
     width:100%; 
