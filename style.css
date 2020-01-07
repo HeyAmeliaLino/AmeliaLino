@@ -817,3 +817,48 @@
   }
 
 
+  /* ABOUT ME */
+  #body_about_me{
+    background-image: url('media/body_about_me/amelialino_aboutme.jpg');
+    width:100%; 
+    height: 100%;
+  }
+
+  #logo_about_me{
+
+    padding-top: 50px;
+    padding-left: 120px;
+  }
+
+
+  #menu_about_me{
+     
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 4px;
+     
+    background-color:"";
+    padding-top: 67px;
+    padding-right: 13px;
+    
+}
+#menu_about_me ul{
+  padding-left: 25px;
+}
+
+#menu_about_me li a{
+    color: white;
+    padding-right: 50px;
+    
+
+}
+ 
+
+#menu_about_me li a:hover{
+    color: #c2484a;
+}
+
+ 
+
