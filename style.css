@@ -471,12 +471,14 @@
 
   #shocked_sexta{
     /* Asignamos una altura mínima */
-    min-height: 50vh;
+    min-height: 100%;
      
     
     background-image: url('media/shocked/shocked6.jpg');
-    background-size: cover;
+    background-size: contain;
     background-position: center;
+
+    
   }
  
 #copyright_sexting{
