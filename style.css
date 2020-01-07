@@ -535,12 +535,18 @@
 
   #freyay_cuarta {
     /* Asignamos una altura mínima */
-    min-height: 47vh;
+    min-height: 100%;
      
     
     background-image: url('media/freyay/freeyay3.jpg');
-    background-size: cover;
+    background-size: contain;
     background-position: center;
+
+
+    
+     
+    
+     
   }
 
   #freyay_quinta {
