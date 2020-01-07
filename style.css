@@ -26,7 +26,7 @@
 }
 
 #video_index{
-    padding-top: 50px;
+    padding-top: 10px;
 
 }
 
@@ -38,7 +38,7 @@
 }
 
 #footer_index{
-    padding-top: 20px;
+    padding-top: 0px;
 }
 #footer_index p{
     font-family: 'Raleway', sans-serif;
@@ -54,11 +54,11 @@
 }
 
 #copyright_index{
-    padding-top: 30px;
+    padding-top: 5px;
 }
 #copyright_index p{
     font-family: 'Raleway', sans-serif;
-    font-size: 8px;
+    font-size: 6px;
     font-weight: medium;
     font-style: italic;
     letter-spacing: 2px;
@@ -79,11 +79,11 @@
 
 #uno {
     /* background-color: red; */
-    padding-top: 200px;
+    padding-top: 150px;
 }
 
 #projects_video{
-    padding-top: 125px;
+    padding-top: 15px;
 }
 
  
@@ -101,7 +101,7 @@
  
 
 #copyright_project{
-    padding-top: 30px;
+    padding-top: 60px;
 }
 #copyright_project p{
     font-family: 'Raleway', sans-serif;
@@ -875,7 +875,7 @@
 }
 
 #contact_footer{
-  padding-top: 550px;
+  padding-top: 480px;
 }
 #contact_footer p{
   font-family: 'Raleway', sans-serif;
