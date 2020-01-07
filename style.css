@@ -867,6 +867,30 @@
 
 
 
+/* -------contact  ---------*/
+
+#contact_body{
+  background-image: url('media/contact/contact.jpg');
+  background-repeat: no-repeat;
+}
+
+#contact_footer{
+  padding-top: 550px;
+}
+#contact_footer p{
+  font-family: 'Raleway', sans-serif;
+  font-size: 8px;
+  font-weight: medium;
+  font-style: italic;
+  letter-spacing: 2px;
+
+   
+
+  color:white;
+  margin-bottom: 0px;
+}
+
+
  
 
  
